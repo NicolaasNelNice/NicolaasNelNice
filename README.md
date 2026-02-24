@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/NicolaasNelNice"><img src="https://badges.pufler.dev/visits/NicolaasNelNice/NicolaasNelNice?style=for-the-badge&color=e74c3c&logo=github&label=Views+Counter" alt="Views Counter" /></a>
-  <a href="https://github.com/NicmeisteR"><img src="https://badges.pufler.dev/years/NicmeisteR/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age" alt="Account Age" /></a>
-  <a href="https://twitter.com/NicmeistaR"><img src="https://img.shields.io/twitter/follow/NicmeistaR?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
+  <a href="https://github.com/NicolaasNelNice"><img src="https://badges.pufler.dev/years/NicolaasNelNice/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age" alt="Account Age" /></a>
 </p>
 
 ---
@@ -26,10 +25,7 @@ I love everything that has to do with **development & innovation**, **graphic de
 - ⚡ Fun fact: I'm a competitive Halo player and Twitch streamer!
 
 <p align="left">
-  <a href="https://facebook.com/nicmstr"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://twitter.com/NicmeistaR"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/Nicolaas-Nel"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/c/NicmeisteR"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://dev.to/NicmeisteR"><img src="https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV" /></a>
 </p>
 
@@ -73,25 +69,6 @@ I love everything that has to do with **development & innovation**, **graphic de
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
 </details>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/NicmeisteR">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicmeisteR&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/NicmeisteR">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=NicmeisteR&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="GitHub Stats" />
-  </a>
-</p>
-
----
-
-## 🎶 Now Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e1qdyuntee9jjlxwyexbkq75o&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=e1qdyuntee9jjlxwyexbkq75o&redirect=true)
 
 ---
 
