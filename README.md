@@ -48,18 +48,18 @@ I love everything that has to do with **development & innovation**, **graphic de
 
 <p align="center">
   <a href="https://github.com/NicmeisteR/Halo-Streamer-Tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicmeisteR&repo=Halo-Streamer-Tools&theme=tokyonight" alt="Halo-Streamer-Tools" />
+    <img src="https://gh-card.dev/repos/NicmeisteR/Halo-Streamer-Tools.svg" alt="Halo-Streamer-Tools" />
   </a>
   <a href="https://github.com/NicmeisteR/HaloOpenAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicmeisteR&repo=HaloOpenAPI&theme=tokyonight" alt="HaloOpenAPI" />
+    <img src="https://gh-card.dev/repos/NicmeisteR/HaloOpenAPI.svg" alt="HaloOpenAPI" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/NicmeisteR/Dark-Mode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicmeisteR&repo=Dark-Mode&theme=tokyonight" alt="Dark-Mode" />
+    <img src="https://gh-card.dev/repos/NicmeisteR/Dark-Mode.svg" alt="Dark-Mode" />
   </a>
   <a href="https://github.com/NicmeisteR/Node-Essentials">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicmeisteR&repo=Node-Essentials&theme=tokyonight" alt="Node-Essentials" />
+    <img src="https://gh-card.dev/repos/NicmeisteR/Node-Essentials.svg" alt="Node-Essentials" />
   </a>
 </p>
 
